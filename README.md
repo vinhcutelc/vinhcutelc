@@ -6,4 +6,4 @@
 
 🛠 Tech Stack
 - 💻   C# | Python | Mysql
-- 🌐   HTML | CSS | JavaScript 
+- 🌐   HTML | CSS |
