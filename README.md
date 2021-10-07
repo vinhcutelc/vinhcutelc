@@ -4,3 +4,6 @@
 - 💞️ I wanna die
 - 📫 mail me if you want to play Don't Starve Together: luonghavinh3011@gmail.com
 
+🛠 Tech Stack
+- 💻   C# | Python | Mysql
+- 🌐   HTML | CSS | JavaScript 
