@@ -56,9 +56,9 @@ through school subject.
 ## 👋 Reach out to me 
 - 💬 Ask me about anything.
 
-![HTML5](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![HTML5](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)
-![HTML5](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![HTML5](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:luonghavinh3011@gmail.com)
+![HTML5](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)(https://www.facebook.com/vinhcutelc)
+![HTML5](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)(https://t.me/vinhcutelc)
 
 ## 💻 System Specs
 ![HTML5](https://img.shields.io/badge/NVIDIA-GTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
