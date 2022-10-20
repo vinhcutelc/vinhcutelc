@@ -6,7 +6,7 @@
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/vinhcutelc)](https://github.com/vinhcutelc)
 
 
-I am Luong Ha Vinh. I am from Lao Cai. I am intermediate fullstack MERN developer. I like writing code, playing game and occasionally reading book. I always up to learning new technologies.
+I am Luong Ha Vinh. I am from Laocai, Vietnam. I am intermediate fullstack MERN developer. I like writing code, playing game and occasionally reading book. I always up to learning new technologies.
 
 ## 💻 Current Projects
 * Private
