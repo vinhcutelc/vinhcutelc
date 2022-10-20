@@ -13,7 +13,6 @@ I am Luong Ha Vinh. I am from Lao Cai. I am intermediate fullstack MERN develope
 * [Memories (Blog App)](https://github.com/vinhcutelc/memories_vinhcutelc)
 
 ## ⚡ Technologies
-![HTML5](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 - Front-end development using
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -56,9 +55,9 @@ through school subject.
 ## 👋 Reach out to me 
 - 💬 Ask me about anything.
 
-![HTML5](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:luonghavinh3011@gmail.com)
-![HTML5](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)(https://www.facebook.com/vinhcutelc)
-![HTML5](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)(https://t.me/vinhcutelc)
+[![HTML5](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luonghavinh3011@gmail.com)
+[![HTML5](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://www.facebook.com/vinhcutelc)
+[![HTML5](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vinhcutelc)
 
 ## 💻 System Specs
 ![HTML5](https://img.shields.io/badge/NVIDIA-GTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
