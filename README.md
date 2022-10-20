@@ -9,8 +9,7 @@
 I am Luong Ha Vinh. I am from Lao Cai. I am intermediate fullstack MERN developer. I like writing code, playing game and occasionally reading book. I always up to learning new technologies.
 
 ## 💻 Current Projects
-* [Chat App](https://github.com/vinhcutelc/chatapp_vinhcutelc)
-* [Memories (Blog App)](https://github.com/vinhcutelc/memories_vinhcutelc)
+* Private
 
 ## ⚡ Technologies
 - Front-end development using
