@@ -2,10 +2,6 @@
 
 <img align='right' src='http://www.jenyalestina.com/blog/wp-content/uploads/2019/05/web-development-1024x582.jpg' width='300"'>
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/vinhcutelc)](https://www.facebook.com/vinhcutelc)
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/vinhcutelc)](https://github.com/vinhcutelc)
-
-
 I am Luong Ha Vinh. I am from Laocai, Vietnam. I am intermediate fullstack MERN developer. I like writing code, playing game and occasionally reading book. I always up to learning new technologies.
 
 ## 💻 Current Projects
