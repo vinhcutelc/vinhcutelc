@@ -23,6 +23,7 @@ I am Luong Ha Vinh. I am from Laocai, Vietnam. I am intermediate fullstack MERN 
 ![HTML5](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Express](https://img.shields.io/badge/Sanity-404D59?style=for-the-badge)
 
 - I also using 
 
