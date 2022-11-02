@@ -15,16 +15,16 @@ I am Luong Ha Vinh. I am from Laocai, Vietnam. I am intermediate fullstack MERN 
 ![HTML5](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 - Backend development using
 
 ![HTML5](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![HTML5](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Express](https://img.shields.io/badge/Sanity-404D59?style=for-the-badge)
+![Sanity](https://img.shields.io/badge/Sanity-%23404d59.svg?style=for-the-badge&logo=sanity&logoColor=%2361DAFB)
 
 - I also using 
 
