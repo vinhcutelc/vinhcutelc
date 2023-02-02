@@ -17,6 +17,7 @@ I am Luong Ha Vinh. I am from Laocai, Vietnam. I am intermediate fullstack MERN 
 ![HTML5](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 - Backend development using
 
@@ -25,7 +26,7 @@ I am Luong Ha Vinh. I am from Laocai, Vietnam. I am intermediate fullstack MERN 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Sanity](https://img.shields.io/badge/Sanity-%23404d59.svg?style=for-the-badge&logo=sanity&logoColor=%2361DAFB)
-
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 - I also using 
 
 ![HTML5](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
